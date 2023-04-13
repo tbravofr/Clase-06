@@ -37,10 +37,10 @@ header{
 header h1{
     padding:0 3rem;
     font-size:calc(2rem + 2vw);
-    font-weight: 400;
+    font-weight: 600;
     letter-spacing: 0.1rem;
     color:#000000;
-    text-shadow: 0 0 5px #3836F9;
+    text-shadow: 0 0 3px #3836F9;
 }
 
 header h2{
